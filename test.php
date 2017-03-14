@@ -1,2 +1,3 @@
-ceshi
+<?php
+echo '000';
 
